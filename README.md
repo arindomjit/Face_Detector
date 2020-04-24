@@ -8,3 +8,5 @@ Python packages required:
 --------------------------
 pip install numpy
 pip install opencv-python
+
+Detailed read: https://towardsdatascience.com/face-detection-in-10-lines-for-beginners-1787aa1d9127
