@@ -6,7 +6,7 @@ This program has 2 function
 
 Python packages required:
 --------------------------
-pip install numpy
+pip install numpy;
 pip install opencv-python
 
 Detailed read: https://towardsdatascience.com/face-detection-in-10-lines-for-beginners-1787aa1d9127
